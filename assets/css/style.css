@@ -101,8 +101,8 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .greet-text { margin-top: 24px; font-size: 17px; }
 .greet-text span { display: block; }
 .greet-text span.gap { height: 1em; }
-.invite-photo { margin-top: 36px; border-radius: 16px; overflow: hidden; aspect-ratio: 3 / 2; background: var(--sage-soft); }
-.invite-photo img { width: 100%; height: 100%; object-fit: cover; }
+.invite-photo { margin-top: 36px; border-radius: 16px; overflow: hidden; background: var(--sage-soft); }
+.invite-photo img { width: 100%; height: auto; }
 .families { margin-top: 36px; display: grid; gap: 14px; grid-template-columns: 1fr; }
 .fam { background: var(--paper); border: 1px solid var(--line); border-radius: 20px; padding: 18px 16px; }
 .fam .role { font-family: var(--font-display); font-weight: 700; font-size: 18px; color: var(--sage); letter-spacing: .1em; }
