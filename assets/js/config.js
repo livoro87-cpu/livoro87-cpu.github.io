@@ -36,15 +36,29 @@ var CFG = {
   ],
 
   /* 갤러리: 화면에 나오는 순서대로. wide:true 는 가로로 긴 사진 */
-  photos: [
+ photos: [
     { src: "assets/images/gallery/gallery_01.jpg", ratio: "2 / 3" },
     { src: "assets/images/gallery/gallery_02.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_04.jpg", ratio: "3 / 2", wide: true },
     { src: "assets/images/gallery/gallery_03.jpg", ratio: "2 / 3" },
-    { src: "assets/images/gallery/gallery_04.jpg", ratio: "2 / 3" },
-    { src: "assets/images/gallery/gallery_05.jpg", ratio: "3 / 2", wide: true },
+    { src: "assets/images/gallery/gallery_05.jpg", ratio: "2 / 3" },
     { src: "assets/images/gallery/gallery_06.jpg", ratio: "2 / 3" },
-    { src: "assets/images/gallery/gallery_07.jpg", ratio: "2 / 3" },
-    { src: "assets/images/gallery/gallery_08.jpg", ratio: "3 / 2", wide: true }
+    { src: "assets/images/gallery/gallery_08.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_07.jpg", ratio: "3 / 2", wide: true },
+    { src: "assets/images/gallery/gallery_09.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_11.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_12.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_13.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_14.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_15.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_16.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_17.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_18.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_19.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_20.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_21.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_22.jpg", ratio: "2 / 3" },
+    { src: "assets/images/gallery/gallery_23.jpg", ratio: "2 / 3" }
   ],
 
   /* 계좌번호 (예시: 실제 번호로 바꿔주세요) */
